@@ -46,7 +46,7 @@ namespace Classes
             instance.Method();
 
             // Delay
-            Console.ReadeLine();
+            Console.ReadLine();
         }
     }
 }
